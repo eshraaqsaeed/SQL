@@ -5,4 +5,4 @@ This repo contains all separated SQL projects
 Dataset was installed from: https://ourworldindata.org/covid-deaths
 
 **Aim:**
-Perform data analysis on data using SQL
+Perform data exploration using SQL
